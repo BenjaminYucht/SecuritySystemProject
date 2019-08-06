@@ -1,0 +1,12 @@
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\SecuritySystemsProgram.exe.config
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\SecuritySystemsProgram.exe
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\SecuritySystemsProgram.pdb
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\EntityFramework.dll
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\EntityFramework.xml
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\obj\Debug\SecuritySystemsProgram.csprojAssemblyReference.cache
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\obj\Debug\SecuritySystemsProgram.csproj.CoreCompileInputs.cache
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\obj\Debug\SecuritySystemsProgram.csproj.CopyComplete
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\obj\Debug\SecuritySystemsProgram.exe
+C:\Users\binyo\source\repos\SecuritySystemsProgram\SecuritySystemsProgram\obj\Debug\SecuritySystemsProgram.pdb
